@@ -6,6 +6,7 @@ nb1机器人，由于发行，只发布两个插件
 注意点：请自行在config.json文件填上你的机器人扣扣账号和密码
 
 环境：请保证你的python版本>=3.7 pycharm运行  window
+
 模块下载：pip install nonebot 如果遇到别的模块不存在，请自行pip install 
 
 演示示如下：
