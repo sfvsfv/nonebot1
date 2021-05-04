@@ -16,7 +16,8 @@ nb1机器人，由于发行，只发布两个插件
 
 ![image](https://user-images.githubusercontent.com/62045791/116995616-ddf58500-ad0c-11eb-96da-f4e804a50ccf.png)
 
-演示示如下：
+
+演示示如下(if you success,you will see as follow)：
 
 ![image](https://user-images.githubusercontent.com/62045791/116991680-830d5f00-ad07-11eb-9363-1a8c9ff94729.png)
 
