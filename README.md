@@ -7,7 +7,16 @@ nb1机器人，由于发行，只发布两个插件
 
 环境：请保证你的python版本>=3.7 pycharm运行  window
 
-模块下载：pip install nonebot 如果遇到别的模块不存在，请自行pip install 
+模块下载：pip install nonebot 如果遇到别的模块不存在，请自行pip install xxx
+
+在第一次运行cqhttp.exe会提示让你获取ticeet,请复制粘贴给你的网址按如下操作获取，滑块要滑过去才能获取:
+
+![Uploading image.png…]()
+
+
+
+![image](https://user-images.githubusercontent.com/62045791/116994901-eef1c680-ad0b-11eb-82a7-90417a11b3a5.png)
+
 
 演示示如下：
 
